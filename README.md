@@ -9,7 +9,9 @@ If an image is missing, it means that it's the same as the previous version!
 ![](https://i.imgur.com/cmlKmYR.jpg)
 
 # [PlayerMan v1.1 (Cut LN)](https://drive.google.com/file/d/1klkfOXf5sp-Ob1hRHsQkZD4tlKtP7JhR/view?usp=sharing)
+![](https://i.imgur.com/rb58EGn.png)
 ![](https://i.imgur.com/jiSe5Iw.jpg)
+![](https://i.imgur.com/TXoNnBe.jpg)
 
 # [PlayerMan v1.0](https://drive.google.com/file/d/1wnamHJkl6sFK5_Ml84autm68fR0_Z07o/view?usp=sharing)
 
