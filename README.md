@@ -13,6 +13,7 @@ If an image is missing, it means that it's the same/minor change from previous v
 ![](https://i.imgur.com/jiSe5Iw.jpg)
 
 # [PlayerMan v1.0](https://drive.google.com/file/d/1wnamHJkl6sFK5_Ml84autm68fR0_Z07o/view?usp=sharing)
+![](https://i.imgur.com/Tusd5Ii.png)
 ![](https://i.imgur.com/yZQ4WUp.jpg)
 ![](https://i.imgur.com/jUkOKjf.jpg)
 
