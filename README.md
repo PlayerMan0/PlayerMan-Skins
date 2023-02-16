@@ -5,6 +5,7 @@ If any new expected image is missing, it's because it's the same as the previous
 # [PlayerMan v2.0 (Cut LN + Instafade) - 02/15/23](https://drive.google.com/file/d/1dONj-UHCuHhXah7QZDjDPHJuGCk2I0cO/view?usp=sharing)
 ![](https://i.imgur.com/UcxzTTH.jpg)
 ![](https://i.imgur.com/m1Nk4c1.jpg)
+![](https://i.imgur.com/cmlKmYR.jpg)
 ![](https://i.imgur.com/IRPLBOj.jpg)
 ![](https://i.imgur.com/dSz2qju.jpg)
 
