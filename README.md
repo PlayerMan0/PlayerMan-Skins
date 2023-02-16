@@ -6,6 +6,7 @@ If any new expected image is missing, it's because it's the same as the previous
 ![](https://i.imgur.com/UcxzTTH.jpg)
 ![](https://i.imgur.com/m1Nk4c1.jpg)
 ![](https://i.imgur.com/IRPLBOj.jpg)
+![](https://i.imgur.com/dSz2qju.jpg)
 
 # [PlayerMan v1.1 (Cut LN)](https://drive.google.com/file/d/1klkfOXf5sp-Ob1hRHsQkZD4tlKtP7JhR/view?usp=sharing)
 
