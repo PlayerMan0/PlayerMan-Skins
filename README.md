@@ -1,6 +1,5 @@
 *A collection of my osu! game skins*
 ### Sorted from newest -> oldest ###
-If any new expected image is missing, it's because it's the same as the previous version!
 
 # [PlayerMan v2.0 (Cut LN + Instafade) - 02/15/23](https://drive.google.com/file/d/1dONj-UHCuHhXah7QZDjDPHJuGCk2I0cO/view?usp=sharing)
 ![](https://i.imgur.com/UcxzTTH.jpg)
