@@ -2,6 +2,8 @@
 ### Sorted from newest -> oldest ###
 If an image is missing, it means that it's the same/minor change from previous version!
 
+# [PlayerMan v2.1 - 04/01/23](https://drive.google.com/file/d/1AOsRlFm4i34vv6gqNDa1_lPBpJ6zYoHG/view?usp=sharing)
+
 # [PlayerMan v2.0 (Cut LN + Instafade) - 02/15/23](https://drive.google.com/file/d/1dONj-UHCuHhXah7QZDjDPHJuGCk2I0cO/view?usp=sharing)
 ![](https://i.imgur.com/IRPLBOj.jpg)
 ![](https://i.imgur.com/dSz2qju.jpg)
