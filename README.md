@@ -3,7 +3,7 @@
 If an image is missing, it means that it's the same/minor change from previous version!
 
 # [PlayerMan v2.2 - 01/26/24](https://drive.google.com/file/d/1LxYlAaKQXU6T21_6zEa1YeiMezANI2gw/view?usp=sharing)
-![Image album](https://imgpile.com/album/Gb5MS)
+[Image album](https://imgpile.com/album/Gb5MS)
 
 # [PlayerMan v2.1 - 04/01/23](https://drive.google.com/file/d/1AOsRlFm4i34vv6gqNDa1_lPBpJ6zYoHG/view?usp=sharing)
 ![](https://i.imgur.com/T4sm8X2.png)
